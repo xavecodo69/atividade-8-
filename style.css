@@ -1,0 +1,30 @@
+#inicio{
+    background-color: steelblue;
+    margin-right: 600;
+    text-align: center;
+    display: flex;
+}
+
+#ícones{
+    background-color: steelblue;
+    margin-right: 600;
+    text-align: center;
+}
+
+#tabelas{
+    background-color: steelblue ;
+    margin-right: 600;
+    text-align: left;
+
+}
+
+#preços{
+    background-color:steelblue ;
+    margin-right: 1000;
+}
+
+#bot{
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 10px;
+}
